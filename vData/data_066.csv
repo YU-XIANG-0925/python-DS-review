@@ -1,0 +1,45 @@
+order_id,date,product,quantity,unit_price,total,customer,city,status
+ORD-066-0000,2022-04-09,Mouse,13,934.03,12142.39,Sam Jones,Tokyo,Pending
+ORD-066-0001,2021-02-23,Keyboard,9,186.36,1677.24,Zoe Thompson,Toronto,Cancelled
+ORD-066-0002,2023-02-09,Router,11,579.32,6372.52,Victor Martin,Singapore,Pending
+ORD-066-0003,2022-06-05,Mouse,1,784.75,784.75,Zoe Lewis,Seoul,Pending
+ORD-066-0004,2020-01-02,Webcam,6,480.23,2881.38,Carol Johnson,Seoul,Processing
+ORD-066-0005,2025-04-16,Webcam,15,430.73,6460.95,Jack Thompson,Tokyo,Pending
+ORD-066-0006,2024-04-28,Printer,18,398.92,7180.56,Leo Anderson,Sydney,Delivered
+ORD-066-0007,2022-05-26,Keyboard,17,87.34,1484.78,Uma Wilson,Seoul,Cancelled
+ORD-066-0008,2022-10-23,Mouse,18,446.79,8042.22,Rose White,London,Pending
+ORD-066-0009,2025-03-24,Webcam,1,866.61,866.61,Xander White,Singapore,Processing
+ORD-066-0010,2022-02-21,Tablet,18,876.66,15779.88,Leo Garcia,Taipei,Pending
+ORD-066-0011,2022-03-09,Laptop,15,367.02,5505.3,Sam Anderson,London,Shipped
+ORD-066-0012,2025-08-21,Laptop,12,915.73,10988.76,Tina Wilson,Taipei,Delivered
+ORD-066-0013,2022-11-02,Headset,16,403.91,6462.56,Uma Johnson,Toronto,Shipped
+ORD-066-0014,2025-02-04,Printer,16,996.26,15940.16,Frank Martin,Sydney,Shipped
+ORD-066-0015,2021-09-19,Keyboard,2,375.47,750.94,Eve Williams,Berlin,Shipped
+ORD-066-0016,2020-09-12,Webcam,2,448.5,897.0,Dave Young,New York,Pending
+ORD-066-0017,2023-09-24,Webcam,20,739.34,14786.8,Wendy Garcia,Toronto,Delivered
+ORD-066-0018,2024-07-09,Tablet,17,24.02,408.34,Victor Johnson,Tokyo,Pending
+ORD-066-0019,2022-12-28,Mouse,17,155.89,2650.13,Frank Harris,Taipei,Delivered
+ORD-066-0020,2025-09-01,Tablet,20,206.5,4130.0,Frank Smith,New York,Delivered
+ORD-066-0021,2023-10-30,Printer,18,356.83,6422.94,Sam Williams,Toronto,Cancelled
+ORD-066-0022,2021-01-05,Keyboard,3,124.98,374.94,Xander Williams,Seoul,Delivered
+ORD-066-0023,2020-03-23,Keyboard,19,629.73,11964.87,Zoe Smith,Singapore,Delivered
+ORD-066-0024,2022-10-07,Headset,15,90.38,1355.7,Victor Miller,Seoul,Delivered
+ORD-066-0025,2023-03-21,Keyboard,2,385.14,770.28,Ivy Jones,Toronto,Delivered
+ORD-066-0026,2022-02-10,Headset,14,233.47,3268.58,Grace Garcia,New York,Delivered
+ORD-066-0027,2025-06-29,Webcam,15,271.64,4074.6,Sam Thomas,London,Processing
+ORD-066-0028,2021-11-29,Laptop,15,830.38,12455.7,Sam Jackson,Seoul,Processing
+ORD-066-0029,2024-11-12,Webcam,19,218.35,4148.65,Uma Anderson,Singapore,Delivered
+ORD-066-0030,2023-01-06,Mouse,17,555.54,9444.18,Quinn Miller,New York,Pending
+ORD-066-0031,2021-04-17,Scanner,15,267.98,4019.7,Victor Garcia,Paris,Pending
+ORD-066-0032,2024-03-04,Router,15,590.37,8855.55,Mia Robinson,Taipei,Delivered
+ORD-066-0033,2020-02-02,Keyboard,4,632.55,2530.2,Noah Martin,London,Delivered
+ORD-066-0034,2024-01-06,Headset,4,195.05,780.2,Frank Harris,Sydney,Pending
+ORD-066-0035,2025-02-12,Router,1,444.18,444.18,Sam White,Berlin,Cancelled
+ORD-066-0036,2024-03-08,Router,8,259.8,2078.4,Karen Martin,Berlin,Delivered
+ORD-066-0037,2022-08-17,Scanner,2,970.09,1940.18,Dave White,Berlin,Delivered
+ORD-066-0038,2020-04-26,Keyboard,19,406.34,7720.46,Quinn Garcia,New York,Processing
+ORD-066-0039,2021-07-25,Keyboard,17,206.28,3506.76,Victor Taylor,Taipei,Shipped
+ORD-066-0040,2021-08-02,Webcam,10,794.14,7941.4,Olivia Jackson,Seoul,Cancelled
+ORD-066-0041,2022-03-31,Keyboard,1,661.36,661.36,Jack Anderson,Tokyo,Pending
+ORD-066-0042,2024-11-23,Mouse,8,858.33,6866.64,Xander Davis,Seoul,Processing
+ORD-066-0043,2021-10-14,Webcam,12,14.89,178.68,Dave Martin,Sydney,Cancelled

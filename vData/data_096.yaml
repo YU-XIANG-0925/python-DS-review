@@ -1,0 +1,25 @@
+# Auto-generated config #096
+app_name: service-4ogb
+version: "1.5.18"
+environment: development
+
+server:
+  host: 122.167.164.40
+  port: 49284
+  debug: true
+  workers: 6
+
+database:
+  host: db-3.seoul.internal
+  port: 5371
+  name: prod_db
+  pool_size: 38
+
+logging:
+  level: INFO
+  file: /var/log/service-12h1.log
+
+features:
+  tracing: true
+  auth_v2: false
+  rate_limiting: false

@@ -1,0 +1,27 @@
+# Auto-generated config #098
+app_name: service-73oz
+version: "1.7.4"
+environment: staging
+
+server:
+  host: 13.162.86.192
+  port: 41332
+  debug: false
+  workers: 7
+
+database:
+  host: db-4.new york.internal
+  port: 5097
+  name: app_db
+  pool_size: 11
+
+logging:
+  level: WARNING
+  file: /var/log/service-yz3m.log
+
+features:
+  rate_limiting: true
+  metrics: false
+  tracing: false
+  cache_enabled: true
+  auth_v2: true

@@ -1,0 +1,23 @@
+order_id,date,product,quantity,unit_price,total,customer,city,status
+ORD-064-0000,2021-04-22,Webcam,5,992.15,4960.75,Zoe Williams,Singapore,Shipped
+ORD-064-0001,2023-10-05,Headset,11,165.0,1815.0,Olivia Thompson,Tokyo,Delivered
+ORD-064-0002,2025-11-05,Webcam,2,438.61,877.22,Grace Young,Taipei,Shipped
+ORD-064-0003,2024-03-20,Monitor,8,145.37,1162.96,Victor Miller,New York,Cancelled
+ORD-064-0004,2022-02-05,Printer,5,489.18,2445.9,Jack Jones,Singapore,Shipped
+ORD-064-0005,2022-05-27,Laptop,17,857.73,14581.41,Noah Williams,Paris,Processing
+ORD-064-0006,2021-12-30,Laptop,20,216.25,4325.0,Noah Wilson,Toronto,Cancelled
+ORD-064-0007,2023-11-29,Printer,19,242.13,4600.47,Quinn Garcia,New York,Pending
+ORD-064-0008,2025-06-30,Tablet,10,670.63,6706.3,Tina Thomas,Sydney,Cancelled
+ORD-064-0009,2021-04-05,Headset,10,105.47,1054.7,Noah Harris,London,Pending
+ORD-064-0010,2025-03-18,Webcam,14,124.55,1743.7,Victor Brown,London,Cancelled
+ORD-064-0011,2025-06-04,Printer,5,775.17,3875.85,Tina White,Singapore,Shipped
+ORD-064-0012,2022-05-31,Tablet,10,274.98,2749.8,Bob Young,London,Delivered
+ORD-064-0013,2024-12-15,Tablet,11,416.71,4583.81,Mia Wilson,Taipei,Delivered
+ORD-064-0014,2023-10-23,Laptop,16,730.18,11682.88,Jack Harris,Berlin,Pending
+ORD-064-0015,2022-04-24,Mouse,19,875.99,16643.81,Tina Lewis,London,Pending
+ORD-064-0016,2020-03-27,Tablet,20,543.83,10876.6,Carol Taylor,London,Processing
+ORD-064-0017,2025-10-25,Monitor,3,657.73,1973.19,Leo Young,Singapore,Pending
+ORD-064-0018,2022-07-28,Headset,18,401.18,7221.24,Zoe Garcia,London,Delivered
+ORD-064-0019,2022-10-15,Laptop,14,223.24,3125.36,Bob Smith,Sydney,Shipped
+ORD-064-0020,2025-06-09,Laptop,17,403.56,6860.52,Frank Anderson,New York,Shipped
+ORD-064-0021,2022-10-09,Laptop,8,634.61,5076.88,Ivy Brown,Berlin,Cancelled

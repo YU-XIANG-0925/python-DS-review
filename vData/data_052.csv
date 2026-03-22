@@ -1,0 +1,27 @@
+order_id,date,product,quantity,unit_price,total,customer,city,status
+ORD-052-0000,2025-12-20,Monitor,2,892.87,1785.74,Olivia Johnson,Sydney,Shipped
+ORD-052-0001,2024-12-23,Laptop,13,692.75,9005.75,Tina Smith,Taipei,Cancelled
+ORD-052-0002,2024-03-14,Monitor,7,928.6,6500.2,Grace Williams,Taipei,Cancelled
+ORD-052-0003,2023-10-12,Monitor,1,988.41,988.41,Victor Williams,Singapore,Shipped
+ORD-052-0004,2020-06-29,Tablet,6,726.05,4356.3,Quinn Brown,London,Delivered
+ORD-052-0005,2022-04-28,Scanner,18,629.89,11338.02,Mia White,Tokyo,Pending
+ORD-052-0006,2023-08-17,Keyboard,7,114.72,803.04,Alice Jackson,London,Shipped
+ORD-052-0007,2022-06-20,Mouse,13,220.43,2865.59,Victor Wilson,Toronto,Delivered
+ORD-052-0008,2022-06-14,Tablet,2,76.59,153.18,Jack Lewis,Paris,Shipped
+ORD-052-0009,2021-12-03,Headset,18,792.56,14266.08,Dave Lewis,London,Cancelled
+ORD-052-0010,2023-07-26,Printer,5,338.39,1691.95,Carol Taylor,Taipei,Processing
+ORD-052-0011,2025-09-24,Monitor,19,453.97,8625.43,Quinn Robinson,Taipei,Pending
+ORD-052-0012,2021-05-23,Headset,1,619.57,619.57,Henry White,Singapore,Processing
+ORD-052-0013,2024-03-14,Printer,3,69.26,207.78,Jack Miller,Seoul,Cancelled
+ORD-052-0014,2022-09-02,Router,7,644.98,4514.86,Olivia Taylor,Seoul,Delivered
+ORD-052-0015,2020-06-11,Scanner,11,646.52,7111.72,Zoe White,New York,Shipped
+ORD-052-0016,2023-09-18,Webcam,8,847.62,6780.96,Henry Miller,Sydney,Shipped
+ORD-052-0017,2022-06-30,Router,8,802.64,6421.12,Mia Thompson,London,Pending
+ORD-052-0018,2020-09-21,Printer,15,632.85,9492.75,Carol Miller,Taipei,Pending
+ORD-052-0019,2021-12-12,Router,7,134.18,939.26,Rose Miller,Singapore,Processing
+ORD-052-0020,2025-03-28,Headset,3,431.55,1294.65,Frank Miller,Singapore,Cancelled
+ORD-052-0021,2023-05-26,Headset,6,609.19,3655.14,Sam Harris,Singapore,Delivered
+ORD-052-0022,2024-01-12,Tablet,16,89.14,1426.24,Mia Garcia,Paris,Cancelled
+ORD-052-0023,2024-11-10,Keyboard,14,509.73,7136.22,Zoe Martin,Taipei,Cancelled
+ORD-052-0024,2023-05-14,Router,14,854.65,11965.1,Rose Jones,Sydney,Pending
+ORD-052-0025,2023-06-06,Printer,9,386.27,3476.43,Jack Jackson,Sydney,Processing

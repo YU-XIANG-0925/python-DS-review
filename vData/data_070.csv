@@ -1,0 +1,23 @@
+order_id,date,product,quantity,unit_price,total,customer,city,status
+ORD-070-0000,2022-12-03,Scanner,15,252.53,3787.95,Quinn Anderson,Taipei,Pending
+ORD-070-0001,2023-07-09,Webcam,3,871.15,2613.45,Yara Harris,Singapore,Pending
+ORD-070-0002,2025-03-02,Webcam,11,473.17,5204.87,Karen Miller,New York,Delivered
+ORD-070-0003,2020-04-04,Keyboard,20,749.43,14988.6,Dave White,Berlin,Cancelled
+ORD-070-0004,2025-12-04,Laptop,16,799.32,12789.12,Quinn Thomas,Taipei,Processing
+ORD-070-0005,2025-08-27,Webcam,14,994.7,13925.8,Zoe Young,Paris,Delivered
+ORD-070-0006,2020-10-01,Mouse,19,340.08,6461.52,Sam Williams,Sydney,Shipped
+ORD-070-0007,2025-10-04,Mouse,18,166.48,2996.64,Sam Harris,Toronto,Pending
+ORD-070-0008,2024-10-31,Headset,3,768.68,2306.04,Olivia Harris,Seoul,Delivered
+ORD-070-0009,2023-10-23,Printer,3,189.68,569.04,Quinn White,Taipei,Cancelled
+ORD-070-0010,2024-05-16,Laptop,19,300.58,5711.02,Alice Davis,London,Cancelled
+ORD-070-0011,2022-07-01,Router,5,266.01,1330.05,Victor Taylor,Sydney,Cancelled
+ORD-070-0012,2023-12-23,Router,7,771.46,5400.22,Eve Miller,Seoul,Pending
+ORD-070-0013,2020-04-17,Scanner,10,189.59,1895.9,Tina Johnson,Seoul,Processing
+ORD-070-0014,2023-09-03,Webcam,12,954.16,11449.92,Henry Miller,Singapore,Delivered
+ORD-070-0015,2023-01-15,Monitor,6,429.62,2577.72,Grace Thomas,Taipei,Pending
+ORD-070-0016,2024-03-16,Laptop,15,131.76,1976.4,Olivia Miller,Berlin,Shipped
+ORD-070-0017,2022-03-24,Monitor,15,443.72,6655.8,Yara Jackson,Toronto,Shipped
+ORD-070-0018,2025-09-06,Router,3,968.58,2905.74,Xander Thompson,Tokyo,Pending
+ORD-070-0019,2025-06-26,Router,7,129.03,903.21,Leo Taylor,Berlin,Pending
+ORD-070-0020,2025-09-07,Webcam,7,984.32,6890.24,Peter Wilson,Sydney,Shipped
+ORD-070-0021,2024-04-05,Tablet,15,25.97,389.55,Mia Brown,London,Delivered

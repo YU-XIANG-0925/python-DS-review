@@ -1,0 +1,27 @@
+# Auto-generated config #099
+app_name: service-rmle
+version: "1.2.12"
+environment: production
+
+server:
+  host: 47.107.67.56
+  port: 57443
+  debug: false
+  workers: 12
+
+database:
+  host: db-4.paris.internal
+  port: 3386
+  name: analytics
+  pool_size: 23
+
+logging:
+  level: WARNING
+  file: /var/log/service-oqv3.log
+
+features:
+  metrics: false
+  cache_enabled: false
+  auth_v2: false
+  tracing: false
+  rate_limiting: true
