@@ -1,0 +1,25 @@
+order_id,date,product,quantity,unit_price,total,customer,city,status
+ORD-065-0000,2020-11-09,Mouse,9,862.5,7762.5,Quinn White,Taipei,Shipped
+ORD-065-0001,2021-09-13,Mouse,18,608.22,10947.96,Xander Robinson,Berlin,Pending
+ORD-065-0002,2023-08-18,Tablet,20,859.85,17197.0,Quinn Smith,New York,Delivered
+ORD-065-0003,2022-12-18,Router,15,210.44,3156.6,Peter Jackson,New York,Cancelled
+ORD-065-0004,2024-07-22,Scanner,3,229.81,689.43,Ivy Martin,New York,Processing
+ORD-065-0005,2020-03-11,Printer,17,251.92,4282.64,Xander Jackson,London,Processing
+ORD-065-0006,2020-04-11,Tablet,4,457.3,1829.2,Yara Davis,Paris,Delivered
+ORD-065-0007,2023-06-26,Webcam,16,566.96,9071.36,Eve Williams,Tokyo,Processing
+ORD-065-0008,2025-06-29,Router,6,215.4,1292.4,Henry Williams,Seoul,Cancelled
+ORD-065-0009,2025-11-13,Router,20,838.85,16777.0,Yara Davis,Taipei,Cancelled
+ORD-065-0010,2023-10-15,Keyboard,9,417.33,3755.97,Bob Taylor,Toronto,Processing
+ORD-065-0011,2023-01-03,Monitor,14,871.84,12205.76,Yara Young,Paris,Processing
+ORD-065-0012,2022-08-23,Webcam,16,319.57,5113.12,Olivia Martin,Sydney,Processing
+ORD-065-0013,2024-10-09,Mouse,3,921.1,2763.3,Mia Jones,Taipei,Pending
+ORD-065-0014,2021-11-11,Monitor,17,749.92,12748.64,Olivia Brown,Taipei,Cancelled
+ORD-065-0015,2025-11-18,Printer,16,178.84,2861.44,Eve Young,Berlin,Cancelled
+ORD-065-0016,2024-11-18,Headset,1,303.49,303.49,Xander Wilson,Sydney,Delivered
+ORD-065-0017,2021-11-10,Keyboard,20,889.76,17795.2,Jack Thompson,Singapore,Processing
+ORD-065-0018,2022-10-26,Printer,12,523.67,6284.04,Olivia Miller,London,Pending
+ORD-065-0019,2025-04-24,Laptop,6,528.61,3171.66,Karen White,Seoul,Pending
+ORD-065-0020,2020-01-23,Headset,16,76.31,1220.96,Wendy Miller,Singapore,Shipped
+ORD-065-0021,2021-01-22,Laptop,18,463.55,8343.9,Tina Harris,Toronto,Pending
+ORD-065-0022,2022-07-14,Webcam,3,356.6,1069.8,Uma Smith,Singapore,Delivered
+ORD-065-0023,2024-10-11,Router,10,821.73,8217.3,Xander Anderson,London,Processing

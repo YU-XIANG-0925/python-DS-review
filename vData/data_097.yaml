@@ -1,0 +1,26 @@
+# Auto-generated config #097
+app_name: service-j2hk
+version: "1.0.2"
+environment: development
+
+server:
+  host: 215.219.86.223
+  port: 43943
+  debug: true
+  workers: 8
+
+database:
+  host: db-4.singapore.internal
+  port: 3507
+  name: analytics
+  pool_size: 38
+
+logging:
+  level: INFO
+  file: /var/log/service-o0dm.log
+
+features:
+  metrics: true
+  tracing: true
+  cache_enabled: false
+  rate_limiting: true

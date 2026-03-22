@@ -1,0 +1,30 @@
+order_id,date,product,quantity,unit_price,total,customer,city,status
+ORD-069-0000,2023-02-13,Router,7,231.84,1622.88,Yara Brown,Singapore,Delivered
+ORD-069-0001,2020-02-19,Scanner,16,464.27,7428.32,Henry Miller,London,Shipped
+ORD-069-0002,2023-09-11,Scanner,13,629.51,8183.63,Carol Wilson,Sydney,Processing
+ORD-069-0003,2020-08-17,Printer,18,873.02,15714.36,Sam Thompson,Singapore,Pending
+ORD-069-0004,2022-01-18,Monitor,9,798.5,7186.5,Henry Harris,Seoul,Shipped
+ORD-069-0005,2023-02-10,Mouse,20,272.84,5456.8,Xander Miller,Tokyo,Pending
+ORD-069-0006,2022-04-30,Monitor,17,309.43,5260.31,Henry Robinson,Toronto,Cancelled
+ORD-069-0007,2020-07-28,Webcam,15,107.19,1607.85,Zoe Williams,Singapore,Cancelled
+ORD-069-0008,2025-05-03,Monitor,4,447.04,1788.16,Dave Young,Toronto,Pending
+ORD-069-0009,2020-02-09,Router,20,491.87,9837.4,Noah Brown,Paris,Pending
+ORD-069-0010,2025-02-11,Laptop,19,806.9,15331.1,Ivy White,Toronto,Delivered
+ORD-069-0011,2023-09-08,Scanner,16,634.19,10147.04,Peter Thompson,New York,Delivered
+ORD-069-0012,2022-10-16,Webcam,9,867.72,7809.48,Ivy Young,Sydney,Delivered
+ORD-069-0013,2022-01-16,Printer,15,120.24,1803.6,Alice Taylor,Sydney,Cancelled
+ORD-069-0014,2020-09-25,Tablet,16,171.34,2741.44,Victor Anderson,Tokyo,Cancelled
+ORD-069-0015,2022-01-18,Monitor,11,640.87,7049.57,Yara Brown,Singapore,Pending
+ORD-069-0016,2023-08-03,Scanner,10,506.26,5062.6,Peter Brown,New York,Processing
+ORD-069-0017,2021-09-25,Webcam,7,574.73,4023.11,Frank Miller,Berlin,Pending
+ORD-069-0018,2021-10-05,Webcam,6,613.41,3680.46,Quinn Martin,Toronto,Cancelled
+ORD-069-0019,2022-12-12,Printer,9,236.21,2125.89,Jack Thomas,Seoul,Delivered
+ORD-069-0020,2023-07-15,Printer,11,728.72,8015.92,Jack White,Toronto,Cancelled
+ORD-069-0021,2024-07-13,Laptop,14,15.61,218.54,Noah Thomas,Seoul,Cancelled
+ORD-069-0022,2022-04-08,Monitor,9,29.27,263.43,Victor Wilson,New York,Delivered
+ORD-069-0023,2024-04-15,Webcam,1,328.31,328.31,Rose Young,Singapore,Pending
+ORD-069-0024,2023-01-27,Mouse,20,507.41,10148.2,Carol Davis,Seoul,Delivered
+ORD-069-0025,2025-04-08,Laptop,16,941.14,15058.24,Yara Jackson,Paris,Pending
+ORD-069-0026,2024-03-16,Laptop,9,986.07,8874.63,Dave Johnson,London,Delivered
+ORD-069-0027,2023-03-10,Mouse,18,375.38,6756.84,Peter Jones,Tokyo,Delivered
+ORD-069-0028,2021-09-08,Router,14,825.24,11553.36,Jack Robinson,Singapore,Processing

@@ -1,0 +1,39 @@
+order_id,date,product,quantity,unit_price,total,customer,city,status
+ORD-055-0000,2025-11-10,Webcam,16,697.46,11159.36,Tina Young,Sydney,Pending
+ORD-055-0001,2020-07-02,Monitor,4,665.33,2661.32,Bob Miller,Seoul,Delivered
+ORD-055-0002,2022-06-03,Router,7,956.89,6698.23,Leo Wilson,Seoul,Processing
+ORD-055-0003,2022-11-10,Headset,14,83.54,1169.56,Mia Garcia,Berlin,Cancelled
+ORD-055-0004,2024-10-08,Keyboard,3,944.35,2833.05,Rose Miller,Tokyo,Delivered
+ORD-055-0005,2025-09-25,Router,7,716.59,5016.13,Frank White,Seoul,Delivered
+ORD-055-0006,2022-10-10,Mouse,14,384.77,5386.78,Ivy Brown,Sydney,Shipped
+ORD-055-0007,2023-09-11,Mouse,18,412.31,7421.58,Leo Taylor,New York,Pending
+ORD-055-0008,2021-02-05,Tablet,8,280.64,2245.12,Henry Jackson,Tokyo,Shipped
+ORD-055-0009,2023-06-09,Router,6,530.68,3184.08,Zoe Martin,Tokyo,Processing
+ORD-055-0010,2023-03-01,Scanner,12,702.75,8433.0,Ivy Lewis,Tokyo,Shipped
+ORD-055-0011,2024-05-14,Keyboard,6,324.5,1947.0,Leo Young,Sydney,Processing
+ORD-055-0012,2021-06-06,Headset,13,481.62,6261.06,Alice Thompson,Seoul,Pending
+ORD-055-0013,2022-12-31,Laptop,5,384.63,1923.15,Xander Thomas,Singapore,Processing
+ORD-055-0014,2022-01-19,Printer,14,709.01,9926.14,Leo Harris,Sydney,Delivered
+ORD-055-0015,2025-11-02,Monitor,9,952.14,8569.26,Jack Williams,New York,Cancelled
+ORD-055-0016,2020-11-21,Mouse,11,845.95,9305.45,Xander Davis,Tokyo,Pending
+ORD-055-0017,2023-03-16,Scanner,19,66.78,1268.82,Peter Smith,Berlin,Processing
+ORD-055-0018,2025-10-10,Scanner,5,484.38,2421.9,Wendy Brown,Berlin,Shipped
+ORD-055-0019,2020-01-30,Tablet,20,198.09,3961.8,Wendy Young,London,Pending
+ORD-055-0020,2020-06-22,Router,17,686.55,11671.35,Olivia Garcia,Sydney,Pending
+ORD-055-0021,2021-06-30,Scanner,6,84.3,505.8,Leo Johnson,Berlin,Cancelled
+ORD-055-0022,2021-04-08,Webcam,13,178.61,2321.93,Victor Davis,Sydney,Shipped
+ORD-055-0023,2023-04-17,Headset,10,305.89,3058.9,Grace Smith,Toronto,Cancelled
+ORD-055-0024,2025-10-12,Laptop,7,922.9,6460.3,Olivia Lewis,Paris,Shipped
+ORD-055-0025,2025-02-28,Webcam,12,15.83,189.96,Jack Thomas,Tokyo,Shipped
+ORD-055-0026,2022-02-01,Tablet,12,890.4,10684.8,Leo Smith,Tokyo,Cancelled
+ORD-055-0027,2025-12-07,Scanner,16,205.37,3285.92,Eve White,Tokyo,Cancelled
+ORD-055-0028,2022-10-21,Monitor,1,163.92,163.92,Peter Jackson,London,Delivered
+ORD-055-0029,2022-01-16,Scanner,12,433.63,5203.56,Zoe Wilson,Tokyo,Cancelled
+ORD-055-0030,2023-12-19,Tablet,15,170.05,2550.75,Alice Thomas,Singapore,Shipped
+ORD-055-0031,2021-07-01,Tablet,7,291.77,2042.39,Noah Taylor,Taipei,Pending
+ORD-055-0032,2022-12-24,Mouse,7,947.94,6635.58,Noah Martin,Sydney,Cancelled
+ORD-055-0033,2024-06-25,Scanner,5,331.31,1656.55,Xander Jackson,Seoul,Shipped
+ORD-055-0034,2021-05-31,Keyboard,4,793.99,3175.96,Leo Thompson,Taipei,Pending
+ORD-055-0035,2023-11-02,Tablet,2,680.85,1361.7,Tina Smith,Berlin,Cancelled
+ORD-055-0036,2020-12-04,Tablet,10,289.12,2891.2,Henry Lewis,Seoul,Processing
+ORD-055-0037,2021-04-16,Headset,6,256.72,1540.32,Wendy Davis,Berlin,Pending

@@ -1,0 +1,26 @@
+# Auto-generated config #100
+app_name: service-2vfh
+version: "1.1.13"
+environment: staging
+
+server:
+  host: 235.71.159.139
+  port: 11062
+  debug: true
+  workers: 6
+
+database:
+  host: db-5.singapore.internal
+  port: 4441
+  name: analytics
+  pool_size: 47
+
+logging:
+  level: WARNING
+  file: /var/log/service-rppn.log
+
+features:
+  auth_v2: false
+  cache_enabled: false
+  rate_limiting: false
+  tracing: false

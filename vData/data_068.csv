@@ -1,0 +1,21 @@
+order_id,date,product,quantity,unit_price,total,customer,city,status
+ORD-068-0000,2024-05-13,Scanner,20,883.79,17675.8,Quinn Miller,Seoul,Cancelled
+ORD-068-0001,2022-09-07,Keyboard,12,725.11,8701.32,Peter Miller,London,Pending
+ORD-068-0002,2020-05-06,Monitor,10,74.1,741.0,Sam Harris,Paris,Pending
+ORD-068-0003,2022-09-17,Keyboard,20,448.77,8975.4,Olivia Thompson,Tokyo,Processing
+ORD-068-0004,2021-10-14,Monitor,11,872.49,9597.39,Olivia Williams,Taipei,Shipped
+ORD-068-0005,2025-04-09,Tablet,14,867.53,12145.42,Carol White,New York,Processing
+ORD-068-0006,2025-12-27,Laptop,4,717.92,2871.68,Olivia Martin,Taipei,Delivered
+ORD-068-0007,2020-06-12,Webcam,13,829.2,10779.6,Mia Thompson,Paris,Cancelled
+ORD-068-0008,2022-12-11,Router,4,112.48,449.92,Yara Brown,Seoul,Delivered
+ORD-068-0009,2021-08-04,Monitor,14,659.32,9230.48,Zoe Martin,Singapore,Delivered
+ORD-068-0010,2020-10-30,Printer,4,336.4,1345.6,Wendy Martin,Singapore,Delivered
+ORD-068-0011,2024-12-26,Webcam,11,302.04,3322.44,Zoe Harris,New York,Processing
+ORD-068-0012,2021-07-27,Keyboard,9,597.89,5381.01,Quinn Anderson,Taipei,Pending
+ORD-068-0013,2023-04-07,Headset,12,567.34,6808.08,Wendy Garcia,Toronto,Delivered
+ORD-068-0014,2023-04-22,Keyboard,16,715.23,11443.68,Xander Jones,Seoul,Processing
+ORD-068-0015,2022-11-19,Monitor,10,859.7,8597.0,Alice Miller,Toronto,Delivered
+ORD-068-0016,2022-11-28,Webcam,5,587.81,2939.05,Xander Thompson,Sydney,Cancelled
+ORD-068-0017,2021-11-28,Webcam,16,621.66,9946.56,Uma Jones,Toronto,Processing
+ORD-068-0018,2024-03-28,Printer,11,527.58,5803.38,Uma Garcia,Sydney,Cancelled
+ORD-068-0019,2024-04-04,Laptop,6,488.67,2932.02,Victor Williams,London,Pending

@@ -1,0 +1,32 @@
+order_id,date,product,quantity,unit_price,total,customer,city,status
+ORD-058-0000,2025-03-02,Headset,3,80.35,241.05,Peter Wilson,Paris,Pending
+ORD-058-0001,2025-06-22,Laptop,4,970.99,3883.96,Leo Anderson,Berlin,Cancelled
+ORD-058-0002,2021-06-12,Printer,20,917.05,18341.0,Leo Thompson,Toronto,Delivered
+ORD-058-0003,2024-08-19,Scanner,12,92.57,1110.84,Olivia Wilson,Taipei,Processing
+ORD-058-0004,2022-09-29,Scanner,2,742.89,1485.78,Alice Jones,Tokyo,Delivered
+ORD-058-0005,2024-06-23,Mouse,13,166.47,2164.11,Henry Jackson,Paris,Shipped
+ORD-058-0006,2025-12-31,Printer,12,470.75,5649.0,Dave Williams,Seoul,Shipped
+ORD-058-0007,2022-03-28,Tablet,13,769.77,10007.01,Karen Williams,London,Delivered
+ORD-058-0008,2025-05-04,Mouse,20,490.95,9819.0,Ivy Harris,Taipei,Processing
+ORD-058-0009,2021-08-19,Monitor,5,948.1,4740.5,Karen Robinson,Taipei,Processing
+ORD-058-0010,2024-01-20,Tablet,13,71.71,932.23,Peter Miller,Taipei,Pending
+ORD-058-0011,2024-09-28,Headset,1,952.17,952.17,Ivy Garcia,Tokyo,Pending
+ORD-058-0012,2020-11-30,Headset,3,280.89,842.67,Wendy Harris,Berlin,Processing
+ORD-058-0013,2022-11-28,Keyboard,7,672.28,4705.96,Bob Williams,Berlin,Delivered
+ORD-058-0014,2023-12-01,Tablet,10,172.72,1727.2,Peter Martin,Sydney,Pending
+ORD-058-0015,2024-05-12,Laptop,14,360.79,5051.06,Rose Lewis,Singapore,Shipped
+ORD-058-0016,2023-08-19,Webcam,19,619.73,11774.87,Alice Jones,Paris,Pending
+ORD-058-0017,2021-04-10,Tablet,16,864.79,13836.64,Ivy Thompson,Taipei,Cancelled
+ORD-058-0018,2021-02-03,Laptop,5,637.32,3186.6,Grace Miller,Berlin,Processing
+ORD-058-0019,2022-06-04,Webcam,6,604.33,3625.98,Grace Miller,Toronto,Shipped
+ORD-058-0020,2020-03-07,Headset,12,814.83,9777.96,Jack Thompson,Tokyo,Cancelled
+ORD-058-0021,2023-12-11,Webcam,15,419.5,6292.5,Rose White,Sydney,Delivered
+ORD-058-0022,2025-02-22,Tablet,4,926.16,3704.64,Leo Garcia,Sydney,Processing
+ORD-058-0023,2024-04-11,Headset,6,546.79,3280.74,Victor White,New York,Processing
+ORD-058-0024,2021-03-01,Mouse,4,994.41,3977.64,Uma Smith,Toronto,Cancelled
+ORD-058-0025,2021-02-12,Printer,4,500.94,2003.76,Quinn Robinson,Taipei,Delivered
+ORD-058-0026,2025-02-05,Scanner,14,219.54,3073.56,Mia Brown,Singapore,Cancelled
+ORD-058-0027,2025-03-15,Tablet,4,356.76,1427.04,Uma Jackson,Taipei,Delivered
+ORD-058-0028,2023-01-01,Headset,8,511.98,4095.84,Jack White,Singapore,Shipped
+ORD-058-0029,2020-04-17,Keyboard,14,42.32,592.48,Zoe Thomas,Sydney,Processing
+ORD-058-0030,2024-10-27,Monitor,11,341.4,3755.4,Rose Jackson,Singapore,Processing
